@@ -1,8 +1,10 @@
 import React from 'react';
 
-import Card from '../../shared/components/UIElements/Card';
 import PlaceItem from './PlaceItem';
+
 import Button from '../../shared/components/FormElements/Button';
+import Card from '../../shared/components/UIElements/Card';
+
 import './PlaceList.css';
 
 const PlaceList = props => {
